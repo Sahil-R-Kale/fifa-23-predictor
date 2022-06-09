@@ -1,6 +1,6 @@
-# fifa-23-predictor
+# FIFA 23 Ratings Predictor
 
-This project is built with an aim to implement a machine learning approach to prediction of professional football player's ratings in the next(23rd) edition of the popular "FIFA" football simulation game.
+This project is built with an aim to implement a machine learning approach to prediction of professional football player's ratings in the next ("FIFA 23") edition of the popular "FIFA" football simulation game.
 
 Every player's contribution in the all aspects of the game was analysed over 3 past seasons to determine which factors have the maximum impact on the overall rating for their defending, passing and shooting attributes.
 
