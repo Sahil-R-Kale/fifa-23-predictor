@@ -34,9 +34,8 @@ The following European clubs were taken into consideration for the project:
 
 The models used for linear regression include:
 1. Simple Linear Regression Model
-2. Decision Tree Regressor
+2. Random Forest Regressor
 3. Bayesian Ridge Regressor
-4. K-Nearest Neighbors Regresor
 
 The following Python libraries were used for the implementation of the project:
 1. Sci-Kit Learn
