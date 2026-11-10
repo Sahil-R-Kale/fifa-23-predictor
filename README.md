@@ -11,6 +11,8 @@ The model was then optimised and used to predict the "Defending", "Passing" and 
 **The detailed project workflow and description of the process used is given in the ipynb file titled "fifa-23-ratings-predictor.ipynb".
 To view a complete list of predicted ratings for each position, check out the "Results" folder.**
 
+To rerun the notebook, provide the input files `def_test.csv`, `mid_stats.csv`, and `att_stats.csv`; these source datasets are not included in this repository. The Excel files in `Results` contain the generated prediction results.
+
 Dataset used for the project was taken from the following resources:
 1. FBRef Football Statistics Website
 2. FUT Bin- FIFA Ratings Website 
